@@ -14,17 +14,20 @@ Meets Friday from 2:30-4pm in room 26-142
 
 ## Faculty
 Instructor: Cesar Hidalgo <chidalgo@mit.edu> 
+César A. Hidalgo leads the Collective Learning group (formerly Macro Connections) and is an associate professor in the program in media arts and sciences at MIT.
+Hidalgo's research focuses on collective learning–the learning taking place in teams, organizations, and economies. With his group, he develops analytical tools and models to understanding how collective learning takes place, and also, they design tools to help improve the collective learning of organizations. 
 
 TAs: Almaha Almalki, Jingxian Zhang, Kevin Hu, and Sanjay Guruprasad
 
 ## Course Description
-Meaning in data is only revealed to those who can bring it to life. With the continual rise in data availability and adoption, the need for sound training in visualization is increasingly important. How can be maximize clarity and precision without losing beauty? How we can take advantage of graphical perception in designing visualizations? How should we build in interaction?
+Meaning in data is only revealed to those who can bring it to life. With the continual rise of data availability and adoption, the need for sound training in visualization is increasingly important.
 
-Applied Data Visualization is a course designed to give the conceptual and practical tools to build powerful data visualizations with modern web technologies. At the end of the course, we aim for students to feel comfortable turning hypotheses or datasets into visualizations.
+Applied Data Visualization is a course designed to equip students with the theoretical and practical tools needed to build effective and engaging data visualizations. By the end of the semester, we aim for students to feel comfortable designing and developing visual stories with data.
 
-The final deliverable is a publication-quality or release-quality visualization project. Students are expected to participate in discussions, productively give and receive feedback with peers, and be enthusiastic about learning.
+Students are expected to critically discuss weekly readings, give and receive peer feedback, and learn while doing. The final course deliverable is a publication- or release-quality visualization project.
 
 No experience with visualization or programming is necessary. Experience with front-end web development (HTML/CSS/JS), visualization and interface design, and software development processes would help.
+
 
 ## Syllabus
 
