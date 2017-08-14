@@ -36,13 +36,16 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 20px;
   }
 }
 @media (min-width: 58em) {
   html {
     font-size: 16px;
   }
+}
+p{
+  font-size: 18px;
 }
 
 
