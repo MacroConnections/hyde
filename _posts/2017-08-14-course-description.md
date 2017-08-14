@@ -3,6 +3,16 @@ layout: post
 title: Applied Data Visualization
 ---
 
+## Logistics
+Fall 2017 Semester
+Category: ——
+Units: 3-0-9
+Meets Friday from 2:30-4pm in room 26-142
+
+## Faculty
+Instructor: Cesar Hidalgo <chidalgo@mit.edu> 
+TAs: Almaha Almalki, Jingxian Zhang, Kevin Hu, and Sanjay Guruprasad
+
 ## Course Description
 Meaning in data is only revealed to those who can bring it to life. With the continual rise in data availability and adoption, the need for sound training in visualization is increasingly important. How can be maximize clarity and precision without losing beauty? How we can take advantage of graphical perception in designing visualizations? How should we build in interaction?
 
