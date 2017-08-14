@@ -13,7 +13,8 @@ Units: 3-0-9
 Meets Friday from 2:30-4pm in room 26-142
 
 ## Faculty
-Instructor: Cesar Hidalgo <chidalgo@mit.edu> 
+Instructor: César Hidalgo <chidalgo@mit.edu> 
+
 César A. Hidalgo leads the Collective Learning group (formerly Macro Connections) and is an associate professor in the program in media arts and sciences at MIT.
 Hidalgo's research focuses on collective learning–the learning taking place in teams, organizations, and economies. With his group, he develops analytical tools and models to understanding how collective learning takes place, and also, they design tools to help improve the collective learning of organizations. 
 
