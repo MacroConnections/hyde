@@ -1,24 +1,7 @@
 ---
-layout: post
+layout: page
 title: Applied Data Visualization
 ---
-
-## Logistics
-Fall 2017 Semester
-
-Category: ——
-
-Units: 3-0-9
-
-Meets Friday from 2:30-4pm in room 26-142
-
-## Faculty
-Instructor: César Hidalgo <chidalgo@mit.edu> 
-
-César A. Hidalgo leads the Collective Learning group (formerly Macro Connections) and is an associate professor in the program in media arts and sciences at MIT.
-Hidalgo's research focuses on collective learning–the learning taking place in teams, organizations, and economies. With his group, he develops analytical tools and models to understanding how collective learning takes place, and also, they design tools to help improve the collective learning of organizations. 
-
-TAs: Almaha Almalki, Jingxian Zhang, Kevin Hu, and Sanjay Guruprasad
 
 ## Course Description
 Meaning in data is only revealed to those who can bring it to life. With the continual rise of data availability and adoption, the need for sound training in visualization is increasingly important.
@@ -47,3 +30,11 @@ No experience with visualization or programming is necessary. Experience with fr
 | Nov 24th | Thanksgiving (No Class) |
 | Dec 1st | **Theory**: Visualization and Collaboration <br> **Applied**: Project Presentations Day 1" |
 | Dec 8th | **Theory**: Evaluation <br> **Applied**: Project Presentations Day 2 and Wrap Up" |
+
+## Instructor
+[César Hidalgo](chidalgo.com) <chidalgo@mit.edu> 
+
+César A. Hidalgo leads the Collective Learning group (formerly Macro Connections) and is an associate professor in the program in media arts and sciences at MIT. Hidalgo's research focuses on collective learning–the learning taking place in teams, organizations, and economies. With his group, he develops analytical tools and models to understanding how collective learning takes place, and also, they design tools to help improve the collective learning of organizations. 
+
+## Teaching Asssitants
+Almaha Almalki, Jingxian Zhang, Kevin Hu, and Sanjay Guruprasad
