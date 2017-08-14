@@ -5,12 +5,16 @@ title: Applied Data Visualization
 
 ## Logistics
 Fall 2017 Semester
+
 Category: ——
+
 Units: 3-0-9
+
 Meets Friday from 2:30-4pm in room 26-142
 
 ## Faculty
 Instructor: Cesar Hidalgo <chidalgo@mit.edu> 
+
 TAs: Almaha Almalki, Jingxian Zhang, Kevin Hu, and Sanjay Guruprasad
 
 ## Course Description
