@@ -114,6 +114,10 @@ a.sidebar-nav-item:focus {
     right:  1rem;
     bottom: 1rem;
     left:   1rem;
+    padding-bottom: 200px;
+  }
+  .sidebar-sticky p{
+    font-size: 14px;
   }
 }
 
