@@ -32,12 +32,12 @@ No experience with visualization or programming is necessary. Experience with fr
 | Dec 8th | **Theory**: Evaluation <br> **Applied**: Project Presentations Day 2 and Wrap Up |
 
 ## Teaching Staff Contact
-[applieddataviz17@media.mit.edu](applieddataviz17@media.mit.edu)
+[applieddataviz17@media.mit.edu](mailto://applieddataviz17@media.mit.edu)
 
 ## Instructor
-[César Hidalgo](chidalgo.com)
+[César Hidalgo](http://chidalgo.com)
 
 César A. Hidalgo leads the Collective Learning group (formerly Macro Connections) and is an associate professor in the program in media arts and sciences at MIT. Hidalgo's research focuses on collective learning–the learning taking place in teams, organizations, and economies. With his group, he develops analytical tools and models to understanding how collective learning takes place, and also, they design tools to help improve the collective learning of organizations. 
 
 ## Teaching Asssitants
-Almaha Almalki, Jingxian Zhang, [Kevin Hu](media.mit.edu/people/kzh), and Sanjay Guruprasad
+Almaha Almalki, Jingxian Zhang, [Kevin Hu](http://media.mit.edu/people/kzh), and Sanjay Guruprasad
