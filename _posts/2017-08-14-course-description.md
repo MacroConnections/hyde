@@ -17,19 +17,19 @@ No experience with visualization or programming is necessary. Experience with fr
 
 | Date | Description |
 | ------- | ---------- |
-| 15 Sep | Introduction |
-| 22 Sep | **Theory**: Visualization Foundations <br> **Applied**: Hands on with D3Plus |
-| 29 Sep | **Theory**: Visual Perception <br> **Applied**:  Building custom visualizations with D3 |
-| 06 Oct | **Theory**: Visualization Techniques <br> **Applied**: Functional front-ends with React |
-| 13 Oct | **Theory**: Multidimensional Visualizations, Maps, and Networks  <br> **Applied**: Building a complete platform with React & Replot |
-| 20 Oct | Media Lab Fall Member’s Event (No Class) |
-| 27 Oct | **Theory**: Exploratory Data Analysis <br> **Applied**: Integrating a real API with your visualizations |
-| 03 Nov | **Theory**: Visualization Software, Designing Interactions <br> **Applied**: Starting Work on Course Projects: Project Proposals |
-| Nov 10th | Veteran Day (No Class) |
-| Nov 17th | **Theory**: Narrative Visualizations <br> **Applied**: Project Progress Feedback |
-| Nov 24th | Thanksgiving (No Class) |
-| Dec 1st | **Theory**: Visualization and Collaboration <br> **Applied**: Project Presentations Day 1 |
-| Dec 8th | **Theory**: Evaluation <br> **Applied**: Project Presentations Day 2 and Wrap Up |
+| **Sep 15** <br> Introduction | Discussing course plans and expectations <br> Giving a taste of data visualization through presentations and projects |
+| **Sep 22** <br> Learning Day 1 | **Theory**: Foundations <br> **Applied**: Hands on with D3Plus |
+| **Sep 29** <br> Learning Day 2 | **Theory**: Perception <br> **Applied**:  Building custom visualizations with D3 |
+| **Oct 06** <br> Learning Day 3 | **Theory**: Visualization Techniques <br> **Applied**: Functional front-ends with React |
+| **Oct 13** <br> Learning Day 4 | **Theory**: Multidimensional Visualizations, Maps, and Networks  <br> **Applied**: Building a complete platform with React & Replot |
+| **Oct 20** | Media Lab Fall Member’s Event (No Class) |
+| **Oct 27** <br> Learning Day 5| **Theory**: Exploratory Data Analysis <br> **Applied**: Integrating a real API with your visualizations |
+| **Nov 03** <br> Project Day 1 | **Theory**: Visualization Software, Designing Interactions <br> **Applied**: Starting Work on Course Projects: Project Proposals |
+| **Nov 10t* | Veteran Day (No Class) |
+| **Nov 17** <br> Project Day 2 | **Theory**: Narrative Visualizations <br> **Applied**: Project Progress Feedback |
+| **Nov 24** <br> Project Day 3 | Thanksgiving (No Class) |
+| **Dec 1** <br> Final Presentations Day 1 | **Theory**: Visualization and Collaboration <br> **Applied**: Project Presentations Day 1 |
+| **Dec 8** <br> Final Presentations Day 2 | **Theory**: Visualization Evaluation <br> **Applied**: Project Presentations Day 2 and Wrap Up. Course reflections. |
 
 ## Instructor
 [César Hidalgo](http://chidalgo.com)
