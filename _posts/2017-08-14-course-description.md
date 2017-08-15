@@ -25,7 +25,7 @@ No experience with visualization or programming is necessary. Experience with fr
 | **Oct 20** | Media Lab Fall Member’s Event (No Class) |
 | **Oct 27** <br> Learning Day 5| **Theory**: Exploratory Data Analysis <br> **Applied**: Integrating a real API with your visualizations |
 | **Nov 03** <br> Project Day 1 | **Theory**: Visualization Software, Designing Interactions <br> **Applied**: Starting Work on Course Projects: Project Proposals |
-| **Nov 10t* | Veteran Day (No Class) |
+| **Nov 10** | Veteran Day (No Class) |
 | **Nov 17** <br> Project Day 2 | **Theory**: Narrative Visualizations <br> **Applied**: Project Progress Feedback |
 | **Nov 24** <br> Project Day 3 | Thanksgiving (No Class) |
 | **Dec 1** <br> Final Presentations Day 1 | **Theory**: Visualization and Collaboration <br> **Applied**: Project Presentations Day 1 |
