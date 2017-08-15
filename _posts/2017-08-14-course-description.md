@@ -31,9 +31,6 @@ No experience with visualization or programming is necessary. Experience with fr
 | Dec 1st | **Theory**: Visualization and Collaboration <br> **Applied**: Project Presentations Day 1 |
 | Dec 8th | **Theory**: Evaluation <br> **Applied**: Project Presentations Day 2 and Wrap Up |
 
-## Teaching Staff Contact
-[applieddataviz17@media.mit.edu](mailto://applieddataviz17@media.mit.edu)
-
 ## Instructor
 [César Hidalgo](http://chidalgo.com)
 
@@ -41,3 +38,6 @@ César A. Hidalgo leads the Collective Learning group (formerly Macro Connection
 
 ## Teaching Asssitants
 Almaha Almalki, Jingxian Zhang, [Kevin Hu](http://media.mit.edu/people/kzh), and Sanjay Guruprasad
+
+## Teaching Staff Contact
+[applieddataviz17@media.mit.edu](mailto://applieddataviz17@media.mit.edu)
