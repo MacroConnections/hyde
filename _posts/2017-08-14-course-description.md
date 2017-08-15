@@ -40,4 +40,4 @@ César A. Hidalgo leads the Collective Learning group (formerly Macro Connection
 Almaha Almalki, Jingxian Zhang, [Kevin Hu](http://media.mit.edu/people/kzh), and Sanjay Guruprasad
 
 ## Teaching Staff Contact
-[applieddataviz17@media.mit.edu](mailto://applieddataviz17@media.mit.edu)
+[dataviz17@media.mit.edu](mailto://dataviz17@media.mit.edu)
