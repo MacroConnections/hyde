@@ -18,23 +18,26 @@ No experience with visualization or programming is necessary. Experience with fr
 | Date | Description |
 | ------- | ---------- |
 | 15 Sep | Introduction |
-| 22 Sep | **Theory**: Visualization Foundations <br> **Applied**: Hands on with D3Plus" |
-| 29 Sep | **Theory**: Visual Perception <br> **Applied**:  Building custom visualizations with D3" |
-| 06 Oct | **Theory**: Visualization Techniques <br> **Applied**: Functional front-ends with React" |
-| 13 Oct | **Theory**: Multidimensional Visualizations, Maps, and Networks  <br> **Applied**: Building a complete platform with React & Replot" |
+| 22 Sep | **Theory**: Visualization Foundations <br> **Applied**: Hands on with D3Plus |
+| 29 Sep | **Theory**: Visual Perception <br> **Applied**:  Building custom visualizations with D3 |
+| 06 Oct | **Theory**: Visualization Techniques <br> **Applied**: Functional front-ends with React |
+| 13 Oct | **Theory**: Multidimensional Visualizations, Maps, and Networks  <br> **Applied**: Building a complete platform with React & Replot |
 | 20 Oct | Media Lab Fall Member’s Event (No Class) |
-| 27 Oct | **Theory**: Exploratory Data Analysis <br> **Applied**: Integrating a real API with your visualizations" |
-| 03 Nov | **Theory**: Visualization Software, Designing Interactions <br> **Applied**: Starting Work on Course Projects: Project Proposals" |
+| 27 Oct | **Theory**: Exploratory Data Analysis <br> **Applied**: Integrating a real API with your visualizations |
+| 03 Nov | **Theory**: Visualization Software, Designing Interactions <br> **Applied**: Starting Work on Course Projects: Project Proposals |
 | Nov 10th | Veteran Day (No Class) |
-| Nov 17th | **Theory**: Narrative Visualizations <br> **Applied**: Project Progress Feedback" |
+| Nov 17th | **Theory**: Narrative Visualizations <br> **Applied**: Project Progress Feedback |
 | Nov 24th | Thanksgiving (No Class) |
-| Dec 1st | **Theory**: Visualization and Collaboration <br> **Applied**: Project Presentations Day 1" |
-| Dec 8th | **Theory**: Evaluation <br> **Applied**: Project Presentations Day 2 and Wrap Up" |
+| Dec 1st | **Theory**: Visualization and Collaboration <br> **Applied**: Project Presentations Day 1 |
+| Dec 8th | **Theory**: Evaluation <br> **Applied**: Project Presentations Day 2 and Wrap Up |
+
+## Teaching Staff Contact
+[applieddataviz17@media.mit.edu](applieddataviz17@media.mit.edu)
 
 ## Instructor
-[César Hidalgo](chidalgo.com) <chidalgo@mit.edu> 
+[César Hidalgo](chidalgo.com)
 
 César A. Hidalgo leads the Collective Learning group (formerly Macro Connections) and is an associate professor in the program in media arts and sciences at MIT. Hidalgo's research focuses on collective learning–the learning taking place in teams, organizations, and economies. With his group, he develops analytical tools and models to understanding how collective learning takes place, and also, they design tools to help improve the collective learning of organizations. 
 
 ## Teaching Asssitants
-Almaha Almalki, Jingxian Zhang, Kevin Hu, and Sanjay Guruprasad
+Almaha Almalki, Jingxian Zhang, [Kevin Hu](media.mit.edu/people/kzh), and Sanjay Guruprasad
