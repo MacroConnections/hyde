@@ -8,10 +8,9 @@ Meaning in data is only revealed to those who can bring it to life. With the con
 
 Applied Data Visualization is a course designed to equip students with the theoretical and practical tools needed to build effective and engaging data visualizations. By the end of the semester, we aim for students to feel comfortable designing and developing visual stories with data.
 
-Students are expected to critically discuss weekly readings, give and receive peer feedback, and learn while doing. The final course deliverable is a publication- or release-quality visualization project.
+The first half of the course consists of instructional learning through workshops and readings. An applied midterm project will help integrate these learnings. The second half of the course focuses on creative learning through working on the final course deliverable: a publication- or release-quality visualization project on a topic of student’s choosing.
 
-No experience with visualization or programming is necessary. Experience with front-end web development (HTML/CSS/JS), visualization and interface design, and software development processes would help.
-
+Applied Data Visualization is a pass/fail course. Students are expected to critically discuss weekly readings, give and receive peer feedback, and learn while doing. No experience with visualization or programming is necessary. Experience with front-end web development (HTML/CSS/JS), visualization and interface design, and software development processes would help.
 
 ## Syllabus
 
