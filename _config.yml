@@ -3,9 +3,9 @@ permalink:        pretty
 
 # Setup
 title:            Applied Data Visualization
-tagline:          MAS.XXX
+tagline:          MAS.S70
 description:      'Principles and practice of modern data visualization.'
-url:              http://viz.media.mit.edu
+url:              http://dataviz.media.mit.edu
 baseurl:          /
 
 author:
